@@ -1,6 +1,6 @@
 # ToEataGod_ANDROID
 
-# Juego original
+## Juego original
 
 - LINK DEL JUEGO ORIGINAL (PC): https://soffis-mbm.itch.io/to-eat-a-god
 
